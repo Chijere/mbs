@@ -13,12 +13,13 @@
     <!-- Google Fonts
 		============================================ -->
     <link  href="<?php echo base_url ('assets/css/fonts_robo.css'); ?>" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,700,900" rel="stylesheet">
     <!-- Bootstrap CSS
 		============================================ -->
     <link rel="stylesheet" href="<?php echo base_url ('assets/css/bootstrap.min.css'); ?>">
     <!-- Bootstrap CSS
 		============================================ -->
-    <link rel="stylesheet" href="<?php echo base_url ('assets/css/font-awesome.min.cs'); ?>">
+    <link rel="stylesheet" href="<?php echo base_url ('assets/css/font-awesome.min.css'); ?>">
     <!-- owl.carousel CSS
 		============================================ -->
     <link rel="stylesheet"  href="<?php echo base_url ('assets/css/owl.carousel.css'); ?>">
@@ -26,7 +27,7 @@
     <link rel="stylesheet"  href="<?php echo base_url ('assets/css/owl.transitions.css'); ?>">
     <!-- meanmenu CSS
 		============================================ -->
-    <link rel="stylesheet"  href="<?php echo base_url ('assets/css/meanmenu.min.css'); ?>">
+    <link rel="stylesheet"  href="<?php echo base_url ('assets/css/meanmenu/meanmenu.min.css'); ?>">
     <!-- animate CSS
 		============================================ -->
     <link rel="stylesheet"  href="<?php echo base_url ('assets/css/animate.css'); ?>">
@@ -35,16 +36,18 @@
     <link rel="stylesheet"  href="<?php echo base_url ('assets/css/normalize.css'); ?>">
     <!-- mCustomScrollbar CSS
 		============================================ -->
-    <link rel="stylesheet"  href="<?php echo base_url ('assets/css/jquery.mCustomScrollbar.min.css'); ?>">
+    <link rel="stylesheet"  href="<?php echo base_url ('assets/css/scrollbar/jquery.mCustomScrollbar.min.css'); ?>">
     <!-- jvectormap CSS
 		============================================ -->
-    <link rel="stylesheet"  href="<?php echo base_url ('assets/css/jquery-jvectormap-2.0.3.css'); ?>">
+    <link rel="stylesheet"  href="<?php echo base_url ('assets/css/jvectormap/jquery-jvectormap-2.0.3.css'); ?>">
     <!-- notika icon CSS
 		============================================ -->
     <link rel="stylesheet"  href="<?php echo base_url ('assets/css/notika-custom-icon.css'); ?>">
+
     <!-- wave CSS
 		============================================ -->
-    <link rel="stylesheet"  href="<?php echo base_url ('assets/css/waves.min.css'); ?>">
+    <link rel="stylesheet"  href="<?php echo base_url ('assets/css/wave/waves.min.css'); ?>">
+    <link rel="stylesheet"  href="<?php echo base_url ('assets/css/wave/button.css'); ?>">
     <!-- main CSS
 		============================================ -->
     <link rel="stylesheet"  href="<?php echo base_url ('assets/css/dashboardmain.css'); ?>">
@@ -56,7 +59,7 @@
     <link rel="stylesheet"  href="<?php echo base_url ('assets/css/responsive.css'); ?>">
     <!-- modernizr JS
 		============================================ -->
-    <script  src="<?php echo base_url('assets/js/modernizr-2.8.3.min.js'); ?>"></script>
+    <script  src="<?php echo base_url('assets/js/vendor/modernizr-2.8.3.min.js'); ?>"></script>
 </head>
 
 <body>
@@ -69,7 +72,7 @@
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                     <div class="logo-area">
-                        <a href="#"><img  src="<?php echo base_url('assets/images/logo.pngs'); ?>" alt="" /></a>
+                        <a href="#"><img  src="<?php echo base_url('assets/img/logo/logo.png'); ?>" alt="" /></a>
                     </div>
                 </div>
                 <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
@@ -1119,7 +1122,8 @@
     <!-- End Footer area-->
     <!-- jquery
 		============================================ -->
-    <script  src="<?php echo base_url('assets/js/jquery-1.12.4.min.js'); ?>"></script>
+    <script type="text/javascript" src="<?php echo base_url() ?>assets/js/popper.min.js"> </script>
+    <script  src="<?php echo base_url('assets/js/vendor/jquery-1.12.4.min.js'); ?>"></script>
     <!-- bootstrap JS
 		============================================ -->
     <script  src="<?php echo base_url('assets/js/bootstrap.min.js'); ?>"></script>
@@ -1140,49 +1144,49 @@
     <script  src="<?php echo base_url('assets/js/jquery.meanmenu.js'); ?>"></script>
     <!-- counterup JS
 		============================================ -->
-    <script  src="<?php echo base_url('assets/js/jquery.counterup.min.js'); ?>"></script>
-    <script  src="<?php echo base_url('assets/js/waypoints.min.js'); ?>"></script>
-    <script  src="<?php echo base_url('assets/js/counterup-active.js'); ?>"></script>
+    <script  src="<?php echo base_url('assets/js/counterup/jquery.counterup.min.js'); ?>"></script>
+    <script  src="<?php echo base_url('assets/js/counterup/waypoints.min.js'); ?>"></script>
+    <script  src="<?php echo base_url('assets/js/counterup/counterup-active.js'); ?>"></script>
     <!-- mCustomScrollbar JS
 		============================================ -->
-    <script  src="<?php echo base_url('assets/js/jquery.mCustomScrollbar.concat.min.js'); ?>"></script>
+    <script  src="<?php echo base_url('assets/js/scrollbar/jquery.mCustomScrollbar.concat.min.js'); ?>"></script>
     <!-- jvectormap JS
 		============================================ -->
-    <script  src="<?php echo base_url('assets/js/jquery-jvectormap-2.0.2.min.js'); ?>"></script>
-    <script  src="<?php echo base_url('assets/js/jquery-jvectormap-world-mill-en.js'); ?>"></script>
-    <script  src="<?php echo base_url('assets/js/jvectormap-active.js'); ?>"></script>
+    <script  src="<?php echo base_url('assets/js/jvectormap/jquery-jvectormap-2.0.2.min.jss'); ?>"></script>
+    <script  src="<?php echo base_url('assets/js/jvectormap/jquery-jvectormap-world-mill-en.js'); ?>"></script>
+    <script  src="<?php echo base_url('assets/js/jvectormap/jvectormap-active.js'); ?>"></script>
     <!-- sparkline JS
 		============================================ -->
-    <script  src="<?php echo base_url('assets/js/jquery.sparkline.min.js'); ?>"></script>
-    <script  src="<?php echo base_url('assets/js/jquery.sparkline.min.js'); ?>"></script>
+    <script  src="<?php echo base_url('assets/js/sparkline/jquery.sparkline.min.js'); ?>"></script>
+    <script  src="<?php echo base_url('assets/js/sparkline/sparkline-active.js'); ?>"></script>
     <!-- sparkline JS
 		============================================ -->
-    <script  src="<?php echo base_url('assets/js/jquery.flot.js'); ?>"></script>
-    <script  src="<?php echo base_url('assets/js/jquery.flot.resize.js'); ?>"></script>
-    <script  src="<?php echo base_url('assets/js/curvedLines.js'); ?>"></script>
-    <script  src="<?php echo base_url('assets/js/flot-active.js'); ?>"></script>
+    <script  src="<?php echo base_url('assets/js/flot/jquery.flot.js'); ?>"></script>
+    <script  src="<?php echo base_url('assets/js/flot/jquery.flot.resize.js'); ?>"></script>
+    <script  src="<?php echo base_url('assets/js/flot/curvedLines.js'); ?>"></script>
+    <script  src="<?php echo base_url('assets/js/flot/flot-active.js'); ?>"></script>
     <!-- knob JS
 		============================================ -->
-    <script  src="<?php echo base_url('assets/js/jquery.knob.js'); ?>"></script>
-    <script  src="<?php echo base_url('assets/js/jquery.appear.js'); ?>"></script>
-    <script  src="<?php echo base_url('assets/js/knob-active.js'); ?>"></script>
+    <script  src="<?php echo base_url('assets/js/knob/jquery.knob.jss'); ?>"></script>
+    <script  src="<?php echo base_url('assets/js/knob/jquery.appear.js'); ?>"></script>
+    <script  src="<?php echo base_url('assets/js/knob/knob-active.js'); ?>"></script>
     <!--  wave JS
 		============================================ -->
-    <script  src="<?php echo base_url('assets/js/waves.min.js'); ?>"></script>
-    <script  src="<?php echo base_url('assets/js/jquery.wave-active.js'); ?>"></script>
+    <script  src="<?php echo base_url('assets/js/wave/waves.min.js'); ?>"></script>
+    <script  src="<?php echo base_url('assets/js/wave/wave-active.js'); ?>"></script>
     <!--  todo JS
 		============================================ -->
-    <script  src="<?php echo base_url('assets/js/jquery.todo.js'); ?>"></script>
+    <script  src="<?php echo base_url('assets/js/todo/jquery.todo.js'); ?>"></script>
     <!-- plugins JS
 		============================================ -->
-    <script  src="<?php echo base_url('assets/js/jquery.wave-active.js'); ?>"></script>
+    <script  src="<?php echo base_url('assets/js/plugins.js'); ?>"></script>
 	<!--  Chat JS
 		============================================ -->
-    <script  src="<?php echo base_url('assets/js/jquery.wave-active.js'); ?>"></script>
-    <script  src="<?php echo base_url('assets/js/jquery.wave-active.js'); ?>"></script>
+    <script  src="<?php echo base_url('assets/js/chat/moment.min.js'); ?>"></script>
+    <script  src="<?php echo base_url('assets/js/chat/jquery.chat.js'); ?>"></script>
     <!-- main JS
 		============================================ -->
-    <script  src="<?php echo base_url('assets/js/main2.js'); ?>"></script>
+    <script  src="<?php echo base_url('assets/js/main.js'); ?>"></script>
 	<!-- tawk chat JS
 		============================================ -->
     <script  src="<?php echo base_url('assets/js/tawk-chat.js'); ?>"></script>
