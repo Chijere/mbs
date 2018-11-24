@@ -1,26 +1,105 @@
-<br />
-<form action="<?= base_url(); ?>register/doRegister" method="post">
-    <h2>Registration</h2>
-    <hr />
-    <!-- show error messages if the form validation fails -->
-    <?php if ($this->session->flashdata()) { ?>
-        <div class="alert alert-danger">
-            <?=$this->session->flashdata('errors'); ?>
-        </div>
-    <?php } ?>
-    <div class="form-group">
-        <label for="name">Name:</label>
-        <input type="text" name="name" required class="form-control" id="name">
-    </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>MBS login</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->  
+    <link rel="icon" type="image/png"       href="<?php echo base_url ('assets/images/favicon.ico'); ?>"/>
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css"  href="<?php echo base_url ('assets/css/bootstrap.min.css'); ?>">
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css"  href="<?php echo base_url ('assets/css/font-awesome.min.cs'); ?>">
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css"  href="<?php echo base_url ('assets/css/icon-font.min.css'); ?>" >
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css"  href="<?php echo base_url ('assets/css/animate.css'); ?>" >
+<!--===============================================================================================-->  
+    <link rel="stylesheet" type="text/css"  href="<?php echo base_url ('assets/css/hamburgers.min.css'); ?>" />
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css"  href="<?php echo base_url ('assets/css/animsition.min.css'); ?>" />
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css"  href="<?php echo base_url ('assets/css/select2.min.css'); ?>"  />
+<!--===============================================================================================-->  
+    <link rel="stylesheet" type="text/css"  href="<?php echo base_url ('assets/css/daterangepicker.css'); ?>" />
+<!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css"  href="<?php echo base_url ('assets/css/util.css'); ?>">
+    <link rel="stylesheet" type="text/css"  href="<?php echo base_url ('assets/css/main.css'); ?>">
+<!--===============================================================================================-->
+</head>
+<body>
+    
+    <div class="limiter">
+        <div class="container-login100">
+            <div class="wrap-login100 p-t-50 p-b-90">
+                <form class="login100-form validate-form flex-sb flex-w" action="<?= base_url(); ?>register/doRegister" method="post">
+                    <span class="login100-form-title p-b-51">
+                        Create account
+                    </span>
 
-    <div class="form-group">
-        <label for="email">Email address:</label>
-        <input type="email" name="email" required class="form-control" id="email">
+                    <?php if ($this->session->flashdata()) { ?>
+                        <div class="alert alert-danger">
+            <           ?=$this->session->flashdata('errors'); ?>
+                        </div>
+                    <?php } ?>
+
+                    
+                    <div class="wrap-input100 validate-input m-b-16" data-validate = "First name is required">
+                        <input class="input100" type="text" name="name" id ="name" placeholder="First Name">
+                        <span class="focus-input100"></span>
+                    </div>
+                    
+                    
+                    <div class="wrap-input100 validate-input m-b-16" data-validate = "Email is required">
+                        <input class="input100" type="text" name="email" id="pwd" placeholder="Email">
+                        <span class="focus-input100"></span>
+                    </div>
+                    
+                    <div class="wrap-input100 validate-input m-b-16" data-validate = "Password is required">
+                        <input class="input100" type="password" name="password" id="pwd" placeholder="Password">
+                        <span class="focus-input100"></span>
+                    </div>
+
+
+                    <div class="container-login100-form-btn m-t-17">
+                        <button class="login100-form-btn" type="submit" >
+                            Create Account
+                        </button>
+                    </div>
+                    <div class="flex-sb-m w-full p-t-3 p-b-24">
+
+                        <div>
+                            <a href="<?= base_url() . 'login'; ?>" class="txt1">
+                                Log In
+                            </a>
+                        </div>
+                        
+                    </div>
+
+                </form>
+            </div>
+        </div>
     </div>
-    <div class="form-group">
-        <label for="pwd">Password:</label>
-        <input type="password" name="password" required class="form-control" id="pwd">
-    </div>
-    <button type="submit" class="btn btn-default">Submit</button>
-    <span class="float-right"><a href="<?= base_url() . 'login'; ?>" class="btn btn-primary">Login</a></span>
-</form>
+    
+
+    <div id="dropDownSelect1"></div>
+    
+<!--===============================================================================================-->
+    <script  src="<?php echo base_url('assets/js/jquery-3.2.1.min.js'); ?>"></script>
+<!--===============================================================================================-->
+    <script  src="<?php echo base_url('assets/js/animsition.min.js'); ?>" ></script>
+<!--===============================================================================================-->
+    <script  src="<?php echo base_url('assets/js/popper.js'); ?>" ></script>
+    <script  src="<?php echo base_url('assets/js/bootstrap.min.js'); ?>" ></script>
+<!--===============================================================================================-->
+    <script  src="<?php echo base_url('assets/js/select2.min.js'); ?>" ></script>
+<!--===============================================================================================-->
+    <script  src="<?php echo base_url('assets/js/moment.min.js'); ?>" ></script>
+    <script  src="<?php echo base_url('assets/js/daterangepicker.js'); ?>" ></script>
+<!--===============================================================================================-->
+    <script  src="<?php echo base_url('assets/js/countdowntime.js'); ?>" ></script>
+<!--===============================================================================================-->
+    <script  src="<?php echo base_url('assets/js/main.js'); ?>"></script>
+
+</body>
+</html>

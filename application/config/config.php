@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/mbs_sample_tracking_system/index.php';
+$config['base_url'] = 'http://localhost/mbs_sample_tracking_system/';
 
 /*
 |--------------------------------------------------------------------------
