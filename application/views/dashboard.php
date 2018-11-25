@@ -100,8 +100,8 @@
                                                     <img src="img/post/1.jpg" alt="" />
                                                 </div>
                                                 <div class="hd-mg-ctn">
-                                                    <h3>David Belle</h3>
-                                                    <p>Cum sociis natoque penatibus et magnis dis parturient montes</p>
+                                                    <h3>frank banda</h3>
+                                                    <p>a message messages message mbs</p>
                                                 </div>
                                             </div>
                                         </a>
@@ -111,8 +111,8 @@
                                                     <img src="img/post/2.jpg" alt="" />
                                                 </div>
                                                 <div class="hd-mg-ctn">
-                                                    <h3>Jonathan Morris</h3>
-                                                    <p>Cum sociis natoque penatibus et magnis dis parturient montes</p>
+                                                    <h3>jonathan chinzimu</h3>
+                                                    <p>a message messages message mbs</p>
                                                 </div>
                                             </div>
                                         </a>
@@ -122,8 +122,8 @@
                                                     <img src="img/post/4.jpg" alt="" />
                                                 </div>
                                                 <div class="hd-mg-ctn">
-                                                    <h3>Fredric Mitchell</h3>
-                                                    <p>Cum sociis natoque penatibus et magnis dis parturient montes</p>
+                                                    <h3>mada chimtengo</h3>
+                                                    <p>a message messages message mbs</p>
                                                 </div>
                                             </div>
                                         </a>
@@ -133,8 +133,8 @@
                                                     <img src="img/post/1.jpg" alt="" />
                                                 </div>
                                                 <div class="hd-mg-ctn">
-                                                    <h3>David Belle</h3>
-                                                    <p>Cum sociis natoque penatibus et magnis dis parturient montes</p>
+                                                    <h3>eliza kantunthu</h3>
+                                                    <p>ana achepa awa</p>
                                                 </div>
                                             </div>
                                         </a>
@@ -144,8 +144,8 @@
                                                     <img src="img/post/2.jpg" alt="" />
                                                 </div>
                                                 <div class="hd-mg-ctn">
-                                                    <h3>Glenn Jecobs</h3>
-                                                    <p>Cum sociis natoque penatibus et magnis dis parturient montes</p>
+                                                    <h3>mathews Jecobs</h3>
+                                                    <p>read reports and offer feedback by 10 am</p>
                                                 </div>
                                             </div>
                                         </a>
@@ -167,8 +167,8 @@
                                                     <img src="img/post/1.jpg" alt="" />
                                                 </div>
                                                 <div class="hd-mg-ctn">
-                                                    <h3>David Belle</h3>
-                                                    <p>Cum sociis natoque penatibus et magnis dis parturient montes</p>
+                                                    <h3>billy kamwaza</h3>
+                                                    <p>edited a report on human rights</p>
                                                 </div>
                                             </div>
                                         </a>
@@ -178,8 +178,8 @@
                                                     <img src="img/post/2.jpg" alt="" />
                                                 </div>
                                                 <div class="hd-mg-ctn">
-                                                    <h3>Jonathan Morris</h3>
-                                                    <p>Cum sociis natoque penatibus et magnis dis parturient montes</p>
+                                                    <h3>Octavius Dulani</h3>
+                                                    <p>did not do work assigned</p>
                                                 </div>
                                             </div>
                                         </a>
@@ -189,8 +189,8 @@
                                                     <img src="img/post/4.jpg" alt="" />
                                                 </div>
                                                 <div class="hd-mg-ctn">
-                                                    <h3>Fredric Mitchell</h3>
-                                                    <p>Cum sociis natoque penatibus et magnis dis parturient montes</p>
+                                                    <h3>Emily Bwanali</h3>
+                                                    <p>on leave till further notice</p>
                                                 </div>
                                             </div>
                                         </a>
@@ -200,8 +200,8 @@
                                                     <img src="img/post/1.jpg" alt="" />
                                                 </div>
                                                 <div class="hd-mg-ctn">
-                                                    <h3>David Belle</h3>
-                                                    <p>Cum sociis natoque penatibus et magnis dis parturient montes</p>
+                                                    <h3>Nora Nyasulu</h3>
+                                                    <p>substandard goods reported to be illigally imported in malawi</p>
                                                 </div>
                                             </div>
                                         </a>
@@ -211,8 +211,8 @@
                                                     <img src="img/post/2.jpg" alt="" />
                                                 </div>
                                                 <div class="hd-mg-ctn">
-                                                    <h3>Glenn Jecobs</h3>
-                                                    <p>Cum sociis natoque penatibus et magnis dis parturient montes</p>
+                                                    <h3>Lola Rice</h3>
+                                                    <p>restuarants in shambles in mzuzu</p>
                                                 </div>
                                             </div>
                                         </a>
@@ -231,32 +231,32 @@
                                         <div class="skill">
                                             <div class="progress">
                                                 <div class="lead-content">
-                                                    <p>HTML5 Validation Report</p>
+                                                    <p>Work Progress</p>
                                                 </div>
                                                 <div class="progress-bar wow fadeInLeft" data-progress="95%" style="width: 95%;" data-wow-duration="1.5s" data-wow-delay="1.2s"> <span>95%</span>
                                                 </div>
                                             </div>
                                             <div class="progress">
                                                 <div class="lead-content">
-                                                    <p>Google Chrome Extension</p>
+                                                    <p>Report Completion</p>
                                                 </div>
                                                 <div class="progress-bar wow fadeInLeft" data-progress="85%" style="width: 85%;" data-wow-duration="1.5s" data-wow-delay="1.2s"><span>85%</span> </div>
                                             </div>
                                             <div class="progress">
                                                 <div class="lead-content">
-                                                    <p>Social Internet Projects</p>
+                                                    <p>Data entry</p>
                                                 </div>
                                                 <div class="progress-bar wow fadeInLeft" data-progress="75%" style="width: 75%;" data-wow-duration="1.5s" data-wow-delay="1.2s"><span>75%</span> </div>
                                             </div>
                                             <div class="progress">
                                                 <div class="lead-content">
-                                                    <p>Bootstrap Admin</p>
+                                                    <p>substandard goods</p>
                                                 </div>
                                                 <div class="progress-bar wow fadeInLeft" data-progress="93%" style="width: 65%;" data-wow-duration="1.5s" data-wow-delay="1.2s"><span>65%</span> </div>
                                             </div>
                                             <div class="progress progress-bt">
                                                 <div class="lead-content">
-                                                    <p>Youtube App</p>
+                                                    <p>goods to be disposed</p>
                                                 </div>
                                                 <div class="progress-bar wow fadeInLeft" data-progress="55%" style="width: 55%;" data-wow-duration="1.5s" data-wow-delay="1.2s"><span>55%</span> </div>
                                             </div>
@@ -284,7 +284,7 @@
                                                     <div class="chat-avaible"><i class="notika-icon notika-dot"></i></div>
                                                 </div>
                                                 <div class="hd-mg-ctn">
-                                                    <h3>David Belle</h3>
+                                                    <h3>Alan Namoko</h3>
                                                     <p>Available</p>
                                                 </div>
                                             </div>
@@ -295,7 +295,7 @@
                                                     <img src="img/post/2.jpg" alt="" />
                                                 </div>
                                                 <div class="hd-mg-ctn">
-                                                    <h3>Jonathan Morris</h3>
+                                                    <h3>Jonathan Siwande</h3>
                                                     <p>Last seen 3 hours ago</p>
                                                 </div>
                                             </div>
@@ -306,7 +306,7 @@
                                                     <img src="img/post/4.jpg" alt="" />
                                                 </div>
                                                 <div class="hd-mg-ctn">
-                                                    <h3>Fredric Mitchell</h3>
+                                                    <h3>Fredric Mpeusa</h3>
                                                     <p>Last seen 2 minutes ago</p>
                                                 </div>
                                             </div>
@@ -318,7 +318,7 @@
                                                     <div class="chat-avaible"><i class="notika-icon notika-dot"></i></div>
                                                 </div>
                                                 <div class="hd-mg-ctn">
-                                                    <h3>David Belle</h3>
+                                                    <h3>Chisomo Chimgoga</h3>
                                                     <p>Available</p>
                                                 </div>
                                             </div>
@@ -330,7 +330,7 @@
                                                     <div class="chat-avaible"><i class="notika-icon notika-dot"></i></div>
                                                 </div>
                                                 <div class="hd-mg-ctn">
-                                                    <h3>Glenn Jecobs</h3>
+                                                    <h3>Thapelo Phiri</h3>
                                                     <p>Available</p>
                                                 </div>
                                             </div>
@@ -356,32 +356,7 @@
                     <div class="mobile-menu">
                         <nav id="dropdown">
                             <ul class="mobile-menu-nav">
-                                <li><a data-toggle="collapse" data-target="#Charts" href="#">Home</a>
-                                    <ul class="collapse dropdown-header-top">
-                                        <li><a href="index.html">Dashboard One</a></li>
-                                        <li><a href="index-2.html">Dashboard Two</a></li>
-                                        <li><a href="index-3.html">Dashboard Three</a></li>
-                                        <li><a href="index-4.html">Dashboard Four</a></li>
-                                        <li><a href="analytics.html">Analytics</a></li>
-                                        <li><a href="widgets.html">Widgets</a></li>
-                                    </ul>
-                                </li>
-                                <li><a data-toggle="collapse" data-target="#demoevent" href="#">Email</a>
-                                    <ul id="demoevent" class="collapse dropdown-header-top">
-                                        <li><a href="inbox.html">Inbox</a></li>
-                                        <li><a href="view-email.html">View Email</a></li>
-                                        <li><a href="compose-email.html">Compose Email</a></li>
-                                    </ul>
-                                </li>
-                                <li><a data-toggle="collapse" data-target="#democrou" href="#">Interface</a>
-                                    <ul id="democrou" class="collapse dropdown-header-top">
-                                        <li><a href="animations.html">Animations</a></li>
-                                        <li><a href="google-map.html">Google Map</a></li>
-                                        <li><a href="data-map.html">Data Maps</a></li>
-                                        <li><a href="code-editor.html">Code Editor</a></li>
-                                        <li><a href="image-cropper.html">Images Cropper</a></li>
-                                        <li><a href="wizard.html">Wizard</a></li>
-                                    </ul>
+                                <li><a href="#">Home</a>
                                 </li>
                                 <li><a data-toggle="collapse" data-target="#demolibra" href="#">Charts</a>
                                     <ul id="demolibra" class="collapse dropdown-header-top">
@@ -397,48 +372,22 @@
                                         <li><a href="data-table.html">Data Table</a></li>
                                     </ul>
                                 </li>
-                                <li><a data-toggle="collapse" data-target="#demo" href="#">Forms</a>
+                                <li><a data-toggle="collapse" data-target="#demo" href="#">Data</a>
                                     <ul id="demo" class="collapse dropdown-header-top">
-                                        <li><a href="form-elements.html">Form Elements</a></li>
-                                        <li><a href="form-components.html">Form Components</a></li>
-                                        <li><a href="form-examples.html">Form Examples</a></li>
+                                        <li><a href="form-elements.html">Lab Admin</a></li>
+                                        <li><a href="form-components.html">Scientic Officer</a></li>
+                                        <li><a href="form-examples.html">Deputy Director</a></li>
+                                        <li><a href="form-examples.html">Director</a></li>
                                     </ul>
                                 </li>
-                                <li><a data-toggle="collapse" data-target="#Miscellaneousmob" href="#">App views</a>
-                                    <ul id="Miscellaneousmob" class="collapse dropdown-header-top">
-                                        <li><a href="notification.html">Notifications</a>
-                                        </li>
-                                        <li><a href="alert.html">Alerts</a>
-                                        </li>
-                                        <li><a href="modals.html">Modals</a>
-                                        </li>
-                                        <li><a href="buttons.html">Buttons</a>
-                                        </li>
-                                        <li><a href="tabs.html">Tabs</a>
-                                        </li>
-                                        <li><a href="accordion.html">Accordion</a>
-                                        </li>
-                                        <li><a href="dialog.html">Dialogs</a>
-                                        </li>
-                                        <li><a href="popovers.html">Popovers</a>
-                                        </li>
-                                        <li><a href="tooltips.html">Tooltips</a>
-                                        </li>
-                                        <li><a href="dropdown.html">Dropdowns</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li><a data-toggle="collapse" data-target="#Pagemob" href="#">Pages</a>
+ 
+                                <li><a data-toggle="collapse" data-target="#Pagemob" href="#">Admin</a>
                                     <ul id="Pagemob" class="collapse dropdown-header-top">
-                                        <li><a href="contact.html">Contact</a>
+                                        <li><a href="contact.html">Add Users</a>
                                         </li>
-                                        <li><a href="invoice.html">Invoice</a>
+                                        <li><a href="invoice.html">Modify Rights</a>
                                         </li>
-                                        <li><a href="typography.html">Typography</a>
-                                        </li>
-                                        <li><a href="color.html">Color</a>
-                                        </li>
-                                        <li><a href="login-register.html">Login Register</a>
+                                        <li><a href="typography.html">Database Backup</a>
                                         </li>
                                         <li><a href="404.html">404 Page</a>
                                         </li>
@@ -460,129 +409,63 @@
                     <ul class="nav nav-tabs notika-menu-wrap menu-it-icon-pro">
                         <li class="active"><a data-toggle="tab" href="#Home"><i class="notika-icon notika-house"></i> Home</a>
                         </li>
-                        <li><a data-toggle="tab" href="#mailbox"><i class="notika-icon notika-mail"></i> Email</a>
-                        </li>
-                        <li><a data-toggle="tab" href="#Interface"><i class="notika-icon notika-edit"></i> Interface</a>
-                        </li>
                         <li><a data-toggle="tab" href="#Charts"><i class="notika-icon notika-bar-chart"></i> Charts</a>
                         </li>
                         <li><a data-toggle="tab" href="#Tables"><i class="notika-icon notika-windows"></i> Tables</a>
                         </li>
-                        <li><a data-toggle="tab" href="#Forms"><i class="notika-icon notika-form"></i> Forms</a>
+                        <li><a data-toggle="tab" href="#Forms"><i class="notika-icon notika-form"></i> Data</a>
                         </li>
-                        <li><a data-toggle="tab" href="#Appviews"><i class="notika-icon notika-app"></i> App views</a>
-                        </li>
-                        <li><a data-toggle="tab" href="#Page"><i class="notika-icon notika-support"></i> Pages</a>
+                        <li><a data-toggle="tab" href="#Page"><i class="notika-icon notika-support"></i> Admin</a>
                         </li>
                     </ul>
                     <div class="tab-content custom-menu-content">
-                        <div id="Home" class="tab-pane in active notika-tab-menu-bg animated flipInX">
-                            <ul class="notika-main-menu-dropdown">
-                                <li><a href="index.html">Dashboard One</a>
-                                </li>
-                                <li><a href="index-2.html">Dashboard Two</a>
-                                </li>
-                                <li><a href="index-3.html">Dashboard Three</a>
-                                </li>
-                                <li><a href="index-4.html">Dashboard Four</a>
-                                </li>
-                                <li><a href="analytics.html">Analytics</a>
-                                </li>
-                                <li><a href="widgets.html">Widgets</a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div id="mailbox" class="tab-pane notika-tab-menu-bg animated flipInX">
-                            <ul class="notika-main-menu-dropdown">
-                                <li><a href="inbox.html">Inbox</a>
-                                </li>
-                                <li><a href="view-email.html">View Email</a>
-                                </li>
-                                <li><a href="compose-email.html">Compose Email</a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div id="Interface" class="tab-pane notika-tab-menu-bg animated flipInX">
-                            <ul class="notika-main-menu-dropdown">
-                                <li><a href="animations.html">Animations</a>
-                                </li>
-                                <li><a href="google-map.html">Google Map</a>
-                                </li>
-                                <li><a href="data-map.html">Data Maps</a>
-                                </li>
-                                <li><a href="code-editor.html">Code Editor</a>
-                                </li>
-                                <li><a href="image-cropper.html">Images Cropper</a>
-                                </li>
-                                <li><a href="wizard.html">Wizard</a>
-                                </li>
-                            </ul>
-                        </div>
                         <div id="Charts" class="tab-pane notika-tab-menu-bg animated flipInX">
                             <ul class="notika-main-menu-dropdown">
-                                <li><a href="flot-charts.html">Flot Charts</a>
+                                <li><a href="flot-charts.html">Personel Work Statistics</a>
                                 </li>
-                                <li><a href="bar-charts.html">Bar Charts</a>
+                                <li><a href="bar-charts.html">Reporting Statistics</a>
                                 </li>
-                                <li><a href="line-charts.html">Line Charts</a>
+                                <li><a href="line-charts.html">Monthly Task Forecast</a>
                                 </li>
-                                <li><a href="area-charts.html">Area Charts</a>
+                                <li><a href="area-charts.html">Monthly Forecast View</a>
                                 </li>
                             </ul>
                         </div>
                         <div id="Tables" class="tab-pane notika-tab-menu-bg animated flipInX">
                             <ul class="notika-main-menu-dropdown">
-                                <li><a href="normal-table.html">Normal Table</a>
+                                <li><a href="normal-table.html">Monthly Backcast</a>
                                 </li>
-                                <li><a href="data-table.html">Data Table</a>
+                                <li><a href="data-table.html">Monthly Task</a>
+                                </li>
+                                <li><a href="data-table.html">General Reporting</a>
+                                </li>
+                                <li><a href="data-table.html">Divisional Statistics</a>
+                                </li>
+                                <li><a href="data-table.html">Sectional Statistics</a>
+                                </li>
+                                <li><a href="data-table.html">Personel Stats</a>
                                 </li>
                             </ul>
                         </div>
                         <div id="Forms" class="tab-pane notika-tab-menu-bg animated flipInX">
                             <ul class="notika-main-menu-dropdown">
-                                <li><a href="form-elements.html">Form Elements</a>
+                                <li><a href="form-elements.html">Lab Administrator</a>
                                 </li>
-                                <li><a href="form-components.html">Form Components</a>
+                                <li><a href="form-components.html">Scientific Officer</a>
                                 </li>
-                                <li><a href="form-examples.html">Form Examples</a>
+                                <li><a href="form-examples.html">Deputy Director</a>
                                 </li>
-                            </ul>
-                        </div>
-                        <div id="Appviews" class="tab-pane notika-tab-menu-bg animated flipInX">
-                            <ul class="notika-main-menu-dropdown">
-                                <li><a href="notification.html">Notifications</a>
-                                </li>
-                                <li><a href="alert.html">Alerts</a>
-                                </li>
-                                <li><a href="modals.html">Modals</a>
-                                </li>
-                                <li><a href="buttons.html">Buttons</a>
-                                </li>
-                                <li><a href="tabs.html">Tabs</a>
-                                </li>
-                                <li><a href="accordion.html">Accordion</a>
-                                </li>
-                                <li><a href="dialog.html">Dialogs</a>
-                                </li>
-                                <li><a href="popovers.html">Popovers</a>
-                                </li>
-                                <li><a href="tooltips.html">Tooltips</a>
-                                </li>
-                                <li><a href="dropdown.html">Dropdowns</a>
+                                <li><a href="form-examples.html">Director</a>
                                 </li>
                             </ul>
                         </div>
                         <div id="Page" class="tab-pane notika-tab-menu-bg animated flipInX">
                             <ul class="notika-main-menu-dropdown">
-                                <li><a href="contact.html">Contact</a>
+                                <li><a href="contact.html">Add Users</a>
                                 </li>
-                                <li><a href="invoice.html">Invoice</a>
+                                <li><a href="invoice.html">Modify Rights</a>
                                 </li>
-                                <li><a href="typography.html">Typography</a>
-                                </li>
-                                <li><a href="color.html">Color</a>
-                                </li>
-                                <li><a href="login-register.html">Login Register</a>
+                                <li><a href="typography.html">Backup Database</a>
                                 </li>
                                 <li><a href="404.html">404 Page</a>
                                 </li>
@@ -601,8 +484,8 @@
                 <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="wb-traffic-inner notika-shadow sm-res-mg-t-30 tb-res-mg-t-30">
                         <div class="website-traffic-ctn">
-                            <h2><span class="counter">50,000</span></h2>
-                            <p>Total Website Traffics</p>
+                            <h2><span class="counter">11,000</span></h2>
+                            <p>Personnel Work Statistics</p>
                         </div>
                         <div class="sparkline-bar-stats1">9,4,8,6,5,6,4,8,3,5,9,5</div>
                     </div>
@@ -610,8 +493,8 @@
                 <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="wb-traffic-inner notika-shadow sm-res-mg-t-30 tb-res-mg-t-30">
                         <div class="website-traffic-ctn">
-                            <h2><span class="counter">90,000</span>k</h2>
-                            <p>Website Impressions</p>
+                            <h2><span class="counter">6,704</span></h2>
+                            <p>Clients</p>
                         </div>
                         <div class="sparkline-bar-stats2">1,4,8,3,5,6,4,8,3,3,9,5</div>
                     </div>
@@ -619,8 +502,8 @@
                 <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="wb-traffic-inner notika-shadow sm-res-mg-t-30 tb-res-mg-t-30 dk-res-mg-t-30">
                         <div class="website-traffic-ctn">
-                            <h2>$<span class="counter">40,000</span></h2>
-                            <p>Total Online Sales</p>
+                            <h2><span class="counter">129</span></h2>
+                            <p>Director Reviews</p>
                         </div>
                         <div class="sparkline-bar-stats3">4,2,8,2,5,6,3,8,3,5,9,5</div>
                     </div>
@@ -628,8 +511,8 @@
                 <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
                     <div class="wb-traffic-inner notika-shadow sm-res-mg-t-30 tb-res-mg-t-30 dk-res-mg-t-30">
                         <div class="website-traffic-ctn">
-                            <h2><span class="counter">1,000</span></h2>
-                            <p>Total Support Tickets</p>
+                            <h2><span class="counter">1,191</span></h2>
+                            <p>Total Data Entries</p>
                         </div>
                         <div class="sparkline-bar-stats4">2,4,8,4,5,7,4,7,3,5,7,5</div>
                     </div>
@@ -646,8 +529,8 @@
                     <div class="sale-statistic-inner notika-shadow mg-tb-30">
                         <div class="curved-inner-pro">
                             <div class="curved-ctn">
-                                <h2>Sales Statistics</h2>
-                                <p>Vestibulum purus quam scelerisque, mollis nonummy metus</p>
+                                <h2>Work Statistics</h2>
+                                <p>Data of standards Captured per Man Power</p>
                             </div>
                         </div>
                         <div id="curved-line-chart" class="flot-chart-sts flot-chart"></div>
@@ -657,13 +540,13 @@
                     <div class="statistic-right-area notika-shadow mg-tb-30 sm-res-mg-t-0">
                         <div class="past-day-statis">
                             <h2>For The Past 30 Days</h2>
-                            <p>Fusce eget dolor id justo luctus the commodo vel pharetra nisi. Donec velit of libero.</p>
+                            <p>Data captured and workload pending</p>
                         </div>
 						<div class="dash-widget-visits"></div>
                         <div class="past-statistic-an">
                             <div class="past-statistic-ctn">
                                 <h3><span class="counter">3,20,000</span></h3>
-                                <p>Page Views</p>
+                                <p>Disposed items</p>
                             </div>
                             <div class="past-statistic-graph">
                                 <div class="stats-bar"></div>
@@ -672,7 +555,7 @@
                         <div class="past-statistic-an">
                             <div class="past-statistic-ctn">
                                 <h3><span class="counter">1,03,000</span></h3>
-                                <p>Total Clicks</p>
+                                <p>Approved beverages</p>
                             </div>
                             <div class="past-statistic-graph">
                                 <div class="stats-line"></div>
@@ -680,8 +563,8 @@
                         </div>
                         <div class="past-statistic-an">
                             <div class="past-statistic-ctn">
-                                <h3><span class="counter">24,00,000</span></h3>
-                                <p>Site Visitors</p>
+                                <h3><span class="counter">24,000</span></h3>
+                                <p>Trusted Dealers</p>
                             </div>
                             <div class="past-statistic-graph">
                                 <div class="stats-bar-2"></div>
@@ -693,419 +576,8 @@
         </div>
     </div>
     <!-- End Sale Statistic area-->
-    <!-- Start Email Statistic area-->
-    <div class="notika-email-post-area">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                    <div class="email-statis-inner notika-shadow">
-                        <div class="email-ctn-round">
-                            <div class="email-rdn-hd">
-								<h2>Email Statistics</h2>
-							</div>
-                            <div class="email-statis-wrap">
-                                <div class="email-round-nock">
-                                    <input type="text" class="knob" value="0" data-rel="55" data-linecap="round" data-width="130" data-bgcolor="#E4E4E4" data-fgcolor="#00c292" data-thickness=".10" data-readonly="true">
-                                </div>
-                                <div class="email-ctn-nock">
-                                    <p>Total Emails Sent</p>
-                                </div>
-                            </div>
-                            <div class="email-round-gp">
-                                <div class="email-round-pro">
-                                    <div class="email-signle-gp">
-                                        <input type="text" class="knob" value="0" data-rel="75" data-linecap="round" data-width="90" data-bgcolor="#E4E4E4" data-fgcolor="#00c292" data-thickness=".10" data-readonly="true" disabled>
-                                    </div>
-                                    <div class="email-ctn-nock">
-                                        <p>Bounce Rate</p>
-                                    </div>
-                                </div>
-                                <div class="email-round-pro">
-                                    <div class="email-signle-gp">
-                                        <input type="text" class="knob" value="0" data-rel="35" data-linecap="round" data-width="90" data-bgcolor="#E4E4E4" data-fgcolor="#00c292" data-thickness=".10" data-readonly="true" disabled>
-                                    </div>
-                                    <div class="email-ctn-nock">
-                                        <p>Total Opened</p>
-                                    </div>
-                                </div>
-                                <div class="email-round-pro sm-res-ds-n lg-res-mg-bl">
-                                    <div class="email-signle-gp">
-                                        <input type="text" class="knob" value="0" data-rel="45" data-linecap="round" data-width="90" data-bgcolor="#E4E4E4" data-fgcolor="#00c292" data-thickness=".10" data-readonly="true" disabled>
-                                    </div>
-                                    <div class="email-ctn-nock">
-                                        <p>Total Ignored</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                    <div class="recent-post-wrapper notika-shadow sm-res-mg-t-30 tb-res-ds-n dk-res-ds">
-                        <div class="recent-post-ctn">
-                            <div class="recent-post-title">
-                                <h2>Recent Posts</h2>
-                            </div>
-                        </div>
-                        <div class="recent-post-items">
-                            <div class="recent-post-signle rct-pt-mg-wp">
-                                <a href="#">
-                                    <div class="recent-post-flex">
-                                        <div class="recent-post-img">
-                                            <img src="img/post/2.jpg" alt="" />
-                                        </div>
-                                        <div class="recent-post-it-ctn">
-                                            <h2>Smith</h2>
-                                            <p>Nunc quis diam diamurabitur at dolor elementum, dictum turpis vel</p>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="recent-post-signle">
-                                <a href="#">
-                                    <div class="recent-post-flex rct-pt-mg">
-                                        <div class="recent-post-img">
-                                            <img src="img/post/1.jpg" alt="" />
-                                        </div>
-                                        <div class="recent-post-it-ctn">
-                                            <h2>John Deo</h2>
-                                            <p>Nunc quis diam diamurabitur at dolor elementum, dictum turpis vel</p>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="recent-post-signle">
-                                <a href="#">
-                                    <div class="recent-post-flex rct-pt-mg">
-                                        <div class="recent-post-img">
-                                            <img src="img/post/4.jpg" alt="" />
-                                        </div>
-                                        <div class="recent-post-it-ctn">
-                                            <h2>Malika</h2>
-                                            <p>Nunc quis diam diamurabitur at dolor elementum, dictum turpis vel</p>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="recent-post-signle">
-                                <a href="#">
-                                    <div class="recent-post-flex rct-pt-mg">
-                                        <div class="recent-post-img">
-                                            <img src="img/post/2.jpg" alt="" />
-                                        </div>
-                                        <div class="recent-post-it-ctn">
-                                            <h2>Smith</h2>
-                                            <p>Nunc quis diam diamurabitur at dolor elementum, dictum turpis vel</p>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="recent-post-signle">
-                                <a href="#">
-                                    <div class="recent-post-flex rct-pt-mg">
-                                        <div class="recent-post-img">
-                                            <img src="img/post/1.jpg" alt="" />
-                                        </div>
-                                        <div class="recent-post-it-ctn">
-                                            <h2>John Deo</h2>
-                                            <p>Nunc quis diam diamurabitur at dolor elementum, dictum turpis vel</p>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="recent-post-signle">
-                                <a href="#">
-                                    <div class="recent-post-flex rc-ps-vw">
-                                        <div class="recent-post-line rct-pt-mg">
-                                            <p>View All</p>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                    <div class="recent-items-wp notika-shadow sm-res-mg-t-30">
-                        <div class="rc-it-ltd">
-                            <div class="recent-items-ctn">
-                                <div class="recent-items-title">
-                                    <h2>Recent Items</h2>
-                                </div>
-                            </div>
-                            <div class="recent-items-inn">
-                                <table class="table table-inner table-vmiddle">
-                                    <thead>
-                                        <tr>
-                                            <th>ID</th>
-                                            <th>Name</th>
-                                            <th style="width: 60px">Price</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td class="f-500 c-cyan">4555</td>
-                                            <td>Samsung Galaxy Mega</td>
-                                            <td class="f-500 c-cyan">$921</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="f-500 c-cyan">4556</td>
-                                            <td>Huawei Ascend P6</td>
-                                            <td class="f-500 c-cyan">$240</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="f-500 c-cyan">8778</td>
-                                            <td>HTC One M8</td>
-                                            <td class="f-500 c-cyan">$400</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="f-500 c-cyan">5667</td>
-                                            <td>Samsung Galaxy Alpha</td>
-                                            <td class="f-500 c-cyan">$870</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="f-500 c-cyan">7886</td>
-                                            <td>LG G3</td>
-                                            <td class="f-500 c-cyan">$790</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-							<div id="recent-items-chart" class="flot-chart-items flot-chart vt-ct-it tb-rc-it-res"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Email Statistic area-->
-    <!-- Start Realtime sts area-->
-    <div class="realtime-statistic-area">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                    <div class="realtime-wrap notika-shadow mg-t-30">
-                        <div class="realtime-ctn">
-                            <div class="realtime-title">
-                                <h2>Realtime Visitors</h2>
-                            </div>
-                        </div>
-                        <div class="realtime-visitor-ctn">
-                            <div class="realtime-vst-sg">
-                                <h4><span class="counter">4,35,456</span></h4>
-                                <p>Visitors last 24h</p>
-                            </div>
-                            <div class="realtime-vst-sg">
-                                <h4><span class="counter">4,566</span></h4>
-                                <p>Visitors last 30m</p>
-                            </div>
-                        </div>
-                        <div class="realtime-map">
-                            <div class="vectorjsmarp" id="world-map"></div>
-                        </div>
-                        <div class="realtime-country-ctn realtime-ltd-mg">
-                            <h5>September 4, 21:44:02 (2 Mins 56 Seconds)</h5>
-                            <div class="realtime-ctn-bw">
-                                <div class="realtime-ctn-st">
-                                    <span><img src="img/country/1.png" alt="" /></span> <span>United States</span>
-                                </div>
-                                <div class="realtime-bw">
-                                    <span>Firefox</span>
-                                </div>
-                                <div class="realtime-bw">
-                                    <span>Mac OSX</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="realtime-country-ctn">
-                            <h5>September 7, 20:44:02 (5 Mins 56 Seconds)</h5>
-                            <div class="realtime-ctn-bw">
-                                <div class="realtime-ctn-st">
-                                    <span><img src="img/country/2.png" alt="" /></span> <span>Australia</span>
-                                </div>
-                                <div class="realtime-bw">
-                                    <span>Firefox</span>
-                                </div>
-                                <div class="realtime-bw">
-                                    <span>Mac OSX</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="realtime-country-ctn">
-                            <h5>September 9, 19:44:02 (10 Mins 56 Seconds)</h5>
-                            <div class="realtime-ctn-bw">
-                                <div class="realtime-ctn-st">
-                                    <span><img src="img/country/3.png" alt="" /></span> <span>Brazil</span>
-                                </div>
-                                <div class="realtime-bw">
-                                    <span>Firefox</span>
-                                </div>
-                                <div class="realtime-bw">
-                                    <span>Mac OSX</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                    <div class="add-todo-list notika-shadow mg-t-30">
-                        <div class="realtime-ctn">
-                            <div class="realtime-title">
-                                <h2>Add Todo</h2>
-                            </div>
-                        </div>
-                        <div class="card-box">
-                            <div class="todoapp">
-                                <div class="row">
-                                    <div class="col-sm-6 col-md-6 col-sm-6 col-xs-12">
-                                        <h4 id="todo-message"><span id="todo-remaining"></span> of <span id="todo-total"></span> remaining</h4>
-                                    </div>
-                                    <div class="col-sm-6 col-md-6 col-sm-6 col-xs-12">
-                                        <div class="notika-todo-btn">
-                                            <a href="#" class="pull-right btn btn-primary btn-sm" id="btn-archive">Archive</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="notika-todo-scrollbar">
-                                    <ul class="list-group no-margn todo-list" id="todo-list"></ul>
-                                </div>
-                                <div id="todo-form">
-                                    <div class="row">
-                                        <div class="col-sm-12 col-md-12 col-sm-12 col-xs-12 todo-inputbar">
-                                            <div class="form-group todo-flex">
-                                                <div class="nk-int-st">
-                                                    <input type="text" id="todo-input-text" name="todo-input-text" class="form-control" placeholder="Add new todo">
-                                                </div>
-                                                <div class="todo-send">
-                                                    <button class="btn-primary btn-md btn-block btn notika-add-todo" type="button" id="todo-btn-submit">Add</button>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                    <div class="notika-chat-list notika-shadow mg-t-30 tb-res-ds-n dk-res-ds">
-                        <div class="realtime-ctn">
-                            <div class="realtime-title">
-                                <h2>Chat Box</h2>
-                            </div>
-                        </div>
-                        <div class="card-box">
-                            <div class="chat-conversation">
-                                <div class="widgets-chat-scrollbar">
-                                    <ul class="conversation-list">
-                                        <li class="clearfix">
-                                            <div class="chat-avatar">
-                                                <img src="img/post/1.jpg" alt="male">
-                                                <i>10:00</i>
-                                            </div>
-                                            <div class="conversation-text">
-                                                <div class="ctext-wrap">
-                                                    <i>John Deo</i>
-                                                    <p>
-                                                        Hello!
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="clearfix odd">
-                                            <div class="chat-avatar">
-                                                <img src="img/post/2.jpg" alt="Female">
-                                                <i>10:01</i>
-                                            </div>
-                                            <div class="conversation-text">
-                                                <div class="ctext-wrap chat-widgets-cn">
-                                                    <i>Smith</i>
-                                                    <p>
-                                                        Hi, How are you? What about our next meeting?
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="clearfix">
-                                            <div class="chat-avatar">
-                                                <img src="img/post/1.jpg" alt="male">
-                                                <i>10:01</i>
-                                            </div>
-                                            <div class="conversation-text">
-                                                <div class="ctext-wrap">
-                                                    <i>John Deo</i>
-                                                    <p>
-                                                        Yeah everything is fine
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="clearfix odd">
-                                            <div class="chat-avatar">
-                                                <img src="img/post/2.jpg" alt="male">
-                                                <i>10:02</i>
-                                            </div>
-                                            <div class="conversation-text">
-                                                <div class="ctext-wrap chat-widgets-cn">
-                                                    <i>Smith</i>
-                                                    <p>
-                                                        Wow that's great
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="clearfix">
-                                            <div class="chat-avatar">
-                                                <img src="img/post/1.jpg" alt="male">
-                                                <i>10:01</i>
-                                            </div>
-                                            <div class="conversation-text">
-                                                <div class="ctext-wrap">
-                                                    <i>John Deo</i>
-                                                    <p>
-                                                        Doing Better i am thinking about that..
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="clearfix odd">
-                                            <div class="chat-avatar">
-                                                <img src="img/post/2.jpg" alt="male">
-                                                <i>10:02</i>
-                                            </div>
-                                            <div class="conversation-text">
-                                                <div class="ctext-wrap chat-widgets-cn">
-                                                    <i>Smith</i>
-                                                    <p>
-                                                        Wow, You also tallent man...
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="chat-widget-input">
-                                    <div class="row">
-                                        <div class="col-sm-12 col-md-12 col-sm-12 col-xs-12 chat-inputbar">
-                                            <div class="form-group todo-flex">
-                                                <div class="nk-int-st">
-                                                    <input type="text" class="form-control chat-input" placeholder="Enter your text">
-                                                </div>
-                                                <div class="chat-send">
-                                                    <button type="submit" class="btn btn-md btn-primary btn-block notika-chat-btn">Send</button>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Realtime sts area-->
+
+
     <!-- Start Footer area-->
     <div class="footer-copyright-area">
         <div class="container">
