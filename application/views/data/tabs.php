@@ -484,6 +484,7 @@
                                 <li><a data-toggle="tab" href="#menu1">Scientifc Officer</a></li>
                                 <li><a data-toggle="tab" href="#menu2">Deputy Director</a></li>
                                 <li><a data-toggle="tab" href="#menu3">Director</a></li>
+                                <li><a data-toggle="tab" href="#menu4">Overall Data</a></li>
                             </ul>
                             <div class="tab-content tab-custom-st">
                                 <div id="home" class="tab-pane fade in active">
@@ -733,6 +734,88 @@
                                     </div>
                                 </div>
                                 <div id="menu3" class="tab-pane fade">
+                                    <div class="tab-ctn">
+                                        <div class="row">
+                                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                                <div class="normal-table-list mg-t-30">
+                                                   
+                                                    <div class="bsc-tbl-bdr">
+                                                        <table class="table table-bordered table-hover table-condensed">
+                                                            <thead>
+                                                                <tr>
+                                                                    <th>Id</th>
+                                                                    <th>Client</th>
+                                                                    <th>Result</th>
+                                                                    <th>Amount (MKW)</th>
+                                                                    <th>Remark</th>     
+                                                                </tr>
+                                                            </thead>
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td>1</td>
+                                                                    <td>Alexandra</td>
+                                                                    <td>Christopher</td>
+                                                                    <td>@makinton</td>
+                                                                    <td>Ducky</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>2</td>
+                                                                    <td>Madeleine</td>
+                                                                    <td>Hollaway</td>
+                                                                    <td>@hollway</td>
+                                                                    <td>Cheese</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>3</td>
+                                                                    <td>Sebastian</td>
+                                                                    <td>Johnston</td>
+                                                                    <td>@sebastian</td>
+                                                                    <td>Jaycee</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>4</td>
+                                                                    <td>Mitchell</td>
+                                                                    <td>Christin</td>
+                                                                    <td>@mitchell4u</td>
+                                                                    <td>AdskiDeAnus</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>5</td>
+                                                                    <td>Elizabeth</td>
+                                                                    <td>Belkitt</td>
+                                                                    <td>@belkitt</td>
+                                                                    <td>Goat</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>6</td>
+                                                                    <td>Benjamin</td>
+                                                                    <td>Parnell</td>
+                                                                    <td>@wayne234</td>
+                                                                    <td>Pokie</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>7</td>
+                                                                    <td>Katherine</td>
+                                                                    <td>Buckland</td>
+                                                                    <td>@anitabelle</td>
+                                                                    <td>Wokie</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>8</td>
+                                                                    <td>Nicholas</td>
+                                                                    <td>Walmart</td>
+                                                                    <td>@mwalmart</td>
+                                                                    <td>Spike</td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="menu4" class="tab-pane fade">
                                     <div class="tab-ctn">
                                         <div class="row">
                                             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
