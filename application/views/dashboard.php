@@ -368,8 +368,8 @@
                                 </li>
                                 <li><a data-toggle="collapse" data-target="#demodepart" href="#">Tables</a>
                                     <ul id="demodepart" class="collapse dropdown-header-top">
-                                        <li><a href="normal-table.html">Normal Table</a></li>
-                                        <li><a href="data-table.html">Data Table</a></li>
+                                        <li><a href="<?php echo base_url() ?>tables">Normal Table</a></li>
+                                        <li><a href="<?php echo base_url() ?>tables">Data Table</a></li>
                                     </ul>
                                 </li>
                                 <li><a data-toggle="collapse" data-target="#demo" href="#">Data</a>
@@ -433,17 +433,17 @@
                         </div>
                         <div id="Tables" class="tab-pane notika-tab-menu-bg animated flipInX">
                             <ul class="notika-main-menu-dropdown">
-                                <li><a href="normal-table.html">Monthly Backcast</a>
+                                <li><a href="<?php echo base_url() ?>tables">Monthly Backcast</a>
                                 </li>
-                                <li><a href="data-table.html">Monthly Task</a>
+                                <li><a href="<?php echo base_url() ?>tables">Monthly Task</a>
                                 </li>
-                                <li><a href="data-table.html">General Reporting</a>
+                                <li><a href="<?php echo base_url() ?>tables">General Reporting</a>
                                 </li>
-                                <li><a href="data-table.html">Divisional Statistics</a>
+                                <li><a href="<?php echo base_url() ?>tables">Divisional Statistics</a>
                                 </li>
-                                <li><a href="data-table.html">Sectional Statistics</a>
+                                <li><a href="<?php echo base_url() ?>tables">Sectional Statistics</a>
                                 </li>
-                                <li><a href="data-table.html">Personel Stats</a>
+                                <li><a href="<?php echo base_url() ?>tables">Personel Stats</a>
                                 </li>
                             </ul>
                         </div>
