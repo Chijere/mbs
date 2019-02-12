@@ -5,7 +5,7 @@ class Tables extends MY_Controller {
 
     public function index() {
         //$this->load->view('header');
-        $this->load->view('data/tabs');
+        $this->load->view('data/table');
         //$this->load->view('footer');
     }
 
