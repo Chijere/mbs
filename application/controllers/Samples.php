@@ -15,7 +15,13 @@ class Samples extends MY_Controller {
         //$this->load->view('footer');
     }
 
-    public function all_samples() {
+    public function single_sample() {
+        //$this->load->view('header');
+        $this->load->view('samples/single_sample');
+        //$this->load->view('footer');
+    }
+
+    public function all_samples() { // previous samples
         //$this->load->view('header');
         $this->load->view('samples/all_samples');
         //$this->load->view('footer');

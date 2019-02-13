@@ -52,6 +52,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 #Samples
 $route['(?i)samples/new_sample'] = 'samples/new_sample';
+$route['(?i)samples/single_sample'] = 'samples/single_sample';
 $route['(?i)samples/previous_samples'] = 'samples/all_samples';
 #------
 
